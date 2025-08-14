@@ -1,0 +1,840 @@
+# Webalizer V2.23-08 Incremental Data - 02/08/2017 21:20:35
+2017 2 8 21 20 35
+3793 3721 87 174 34 6 838798442 277 105 0
+11 64 212 1 8
+301 292 72166493 12 23 9
+425 413 98035266 16 36 14
+990 986 213801325 16 56 15
+552 543 113568685 20 51 23
+234 229 43700397 11 19 8
+213 194 46180369 15 18 10
+524 518 127083693 23 41 16
+554 546 124262214 11 33 10
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+170 170 37957724 11
+67 65 16167985 7
+4 3 82064 2
+71 65 13657430 6
+5 1 130702 2
+3 3 90614 0
+5 1 20914 2
+12 11 647669 1
+53 52 7101394 3
+98 98 15205628 5
+129 122 32237338 14
+425 424 100015361 29
+290 289 58042488 24
+179 176 44542560 17
+437 423 110480035 23
+149 146 31479823 14
+425 422 100781480 33
+327 325 75702779 19
+513 507 104167494 31
+30 24 6157844 7
+129 129 37007341 9
+64 63 16880750 5
+118 113 20498676 9
+90 89 9742349 4
+0
+0
+0
+3721
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+47
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+# -urls- 
+/images/food41.jpg
+1 2 45 744474 0 0
+/images/eel.png
+1 16 101 1831040 0 0
+/revolution/js/extensions/revolution.extension.actions.min.js
+0 47 62 318848 0 0
+/css/font-awesome.min.css
+0 50 65 1371600 0 0
+/images/food15.jpg
+1 2 62 483380 0 0
+/photos/slider1.jpg
+1 39 72 54681484 0 0
+/images/bg10.jpg
+1 16 104 8842544 0 0
+/images/food16.jpg
+1 2 55 750464 0 0
+/foodslide/food17.jpg
+1 16 38 2682624 0 0
+/bootstrap/css/bootstrap.css
+0 51 11 7514136 0 0
+/images/food28.jpg
+1 2 172 716488 0 0
+/foodslide/food38.jpg
+1 16 64 2755600 0 0
+/dist/zoomslider.css
+0 50 150 118250 0 0
+/js/map.js
+0 4 9 3284 0 0
+/css/icons-helper.css
+0 50 62 187000 0 0
+/images/octpus.png
+1 16 9 1903760 0 0
+/about.html
+0 16 117 330496 5 2
+/js/bootstrap-switch.js
+0 47 1 385635 0 0
+/js/plugins.js
+0 47 63 84224 0 0
+/locations.html
+0 29 0 427402 5 0
+/images/food11.jpg
+1 2 23 498950 0 0
+/img/1.png
+1 31 17 543802 0 0
+/images/food13.jpg
+1 2 0 508218 0 0
+/images/5_2_salmonsashimi.png
+1 16 1 470400 0 0
+/images/sashimi.png
+1 17 46 1160386 0 0
+/js/SmoothScroll.js
+0 47 159 960680 0 0
+/images/logo2.png
+1 45 113 1532925 0 0
+/images/bg2.jpg
+1 12 0 33709800 0 0
+/js/jquery.film_roll.js
+0 18 3 219240 0 0
+/js/modernizr.js
+0 3 3 45750 0 0
+/images/a8.jpg
+1 41 112 6239052 0 0
+/images/food42.jpg
+1 2 35 825390 0 0
+/js/instafeed.js
+0 48 1 636288 0 0
+/images/21.png
+1 16 16 1046752 0 0
+/js/jquery.tabdancer.js
+0 18 62 162576 0 0
+/foodslide/food37.jpg
+1 16 63 2696480 0 0
+/images/favicon.ico
+0 27 0 865026 0 0
+/images/food26.jpg
+1 2 67 696090 0 0
+/foodslide/food42.jpg
+1 16 67 2858320 0 0
+/images/vegii.png
+1 16 64 949040 0 0
+/js/jquery.scrollTo-min.js
+0 47 106 114586 0 0
+/foodslide/food21.jpg
+1 16 161 2694016 0 0
+/fonts/fontawesome-webfont.woff
+0 4 160 334352 0 0
+/photos/slider4.jpg
+1 38 86 45476924 0 0
+/photos/slider2.jpg
+1 37 10 50338714 0 0
+/js/bootstrap.min.js
+0 48 113 1335456 0 0
+/css/icons-main.css
+0 50 63 485600 0 0
+/images/food29.jpg
+1 2 1 728138 0 0
+/images/food38.jpg
+1 2 155 724920 0 0
+/fonts/fontawesome-webfont.eot
+0 3 46 212421 0 0
+/revolution/css/navigation.css
+0 51 22 3038682 0 0
+/images/ornament.png
+1 14 52 7896 0 0
+/foodslide/food19.jpg
+1 16 52 2692224 0 0
+/images/food9.jpg
+1 2 10 602556 0 0
+/revolution/js/extensions/revolution.extension.carousel.min.js
+0 46 118 338468 0 0
+/dist/dots.png
+1 36 66 4212 0 0
+/giftcard.html
+0 4 1 115164 1 1
+/js/jquery.magnific-popup.min.js
+0 48 1 1014864 0 0
+/foodslide/food35.jpg
+1 16 12 2531184 0 0
+/images/food4.jpg
+1 2 7 377268 0 0
+/foodslide/food18.jpg
+1 16 18 2671408 0 0
+/css/style-magnific-popup.css
+0 50 72 389400 0 0
+/js/
+0 48 0 146016 3 3
+/images/logo.png
+1 48 98 1179408 0 0
+/foodslide/food23.jpg
+1 16 51 2690272 0 0
+/images/bg5.jpg
+1 2 5 6584062 0 0
+/css/animate.css
+0 50 0 2854750 0 0
+/fonts/fontawesome-webfont.woff2
+0 25 69 1665600 0 0
+/revolution/js/extensions/revolution.extension.layeranimation.min.js
+0 48 258 1436784 0 0
+/images/food25.jpg
+1 2 110 713896 0 0
+/img/4.png
+1 31 62 553226 0 0
+/images/bg4.jpg
+1 40 112 126839119 0 0
+/images/sos.png
+1 45 0 319545 0 0
+/images/food12.jpg
+1 2 117 623154 0 0
+/images/tuna.png
+1 16 45 2208496 0 0
+/images/food31.jpg
+1 2 1 849520 0 0
+/images/tataki.png
+1 16 1 1103216 0 0
+/menu.html
+0 19 36 823593 4 2
+/images/food35.jpg
+1 2 69 681344 0 0
+/images/bg7.jpg
+1 17 111 35763121 0 0
+/foodslide/food34.jpg
+1 16 3 2481024 0 0
+/img/2.png
+1 28 0 502628 0 0
+/images/salmon.png
+1 16 136 1927168 0 0
+/photos/slider3.jpg
+1 37 3 44207474 0 0
+/images/food7.jpg
+1 2 4 397146 0 0
+/images/caliroll.png
+1 16 165 992816 0 0
+/images/food37.jpg
+1 2 48 720576 0 0
+/css/style.css
+0 51 107 3243600 0 0
+/images/food21.jpg
+1 2 99 732400 0 0
+/fonts/fontawesome-webfont.ttf
+0 1 4 142072 0 0
+/fonts/Pe-icon-7-stroke.woff
+0 2 109 117112 0 0
+/js/jquery-1.11.3.min.js
+0 46 0 4414022 0 0
+/images/food2.jpg
+1 2 1 666940 0 0
+/js/main.js
+0 4 0 2320 0 0
+/foodslide/food25.jpg
+1 16 52 2699040 0 0
+/images/gyoza.png
+1 17 21 1543039 0 0
+/images/food23.jpg
+1 2 49 715502 0 0
+/img/3.png
+1 28 5 496104 0 0
+/js/mapmarker.jquery.js
+0 28 51 58660 0 0
+/images/bg6.jpg
+1 32 14 91068960 0 0
+/img/careerpic.png
+1 2 63 1005836 0 0
+/images/a9.jpg
+1 42 50 10670562 0 0
+/images/food5.jpg
+1 2 1 436314 0 0
+/foodslide/food29.jpg
+1 16 113 2767456 0 0
+/images/food33.jpg
+1 2 1 652616 0 0
+/images/20.png
+1 16 1 798288 0 0
+/foodslide/food22.jpg
+1 16 67 2484240 0 0
+/foodslide/food41.jpg
+1 16 126 2572864 0 0
+/images/food10.jpg
+1 2 49 581152 0 0
+/images/food17.jpg
+1 2 2 748582 0 0
+/css/button.css
+0 4 4 0 0 0
+/contact.html
+0 13 41 193869 3 1
+/js/jquery.nav.js
+0 46 5 240258 0 0
+/images/ebi.png
+1 16 1 2187824 0 0
+/images/a7.jpg
+1 42 50 6889428 0 0
+/gallery.html
+0 2 62 73142 0 0
+/images/food39.jpg
+1 2 49 715610 0 0
+/revolution/css/settings.css
+0 50 1 1730000 0 0
+/careers.html
+0 3 1 41130 2 0
+/images/food18.jpg
+1 2 1 776638 0 0
+/js/modernizr-2.6.2.min.js
+0 47 100 724458 0 0
+/images/leftpic.png
+1 13 117 5730218 0 0
+/images/food24.jpg
+1 2 10 691986 0 0
+/EmploymentApplication.pdf
+0 2 4 255268 0 0
+/images/food3.png
+1 38 0 13240682 0 0
+/images/kani.png
+1 16 10 2122880 0 0
+/img/5.png
+1 31 49 556729 0 0
+/
+0 82 92 1619271 68 10
+/img/6.png
+1 31 0 554590 0 0
+/images/food22.jpg
+1 2 106 665142 0 0
+/images/add-spicy-icon1.png
+1 16 5 52416 0 0
+/foodslide/food27.jpg
+1 16 159 3118704 0 0
+/foodslide/food24.jpg
+1 16 170 2503232 0 0
+/images/giftcardbg.jpg
+1 3 1 5716797 0 0
+/images/spicytuna.png
+1 16 15 933456 0 0
+/css/jquery.tabdancer.css
+0 18 100 89838 0 0
+/images/food34.jpg
+1 2 124 669114 0 0
+/images/ssalad.png
+1 17 238 1245454 0 0
+/js/wow.js
+0 47 22 730756 0 0
+/foodslide/food30.jpg
+1 16 225 2973600 0 0
+/locationframe.html
+0 29 112 55216 1 3
+/img/breakline.png
+1 12 54 210036 0 0
+/images/yellowtail.png
+1 16 0 1940960 0 0
+/images/food1.jpg
+1 2 111 603184 0 0
+/photos/slider6.jpg
+1 36 164 43937028 0 0
+/images/food36.jpg
+1 2 5 738276 0 0
+/foodslide/food39.jpg
+1 16 1 2584912 0 0
+/foodslide/food28.jpg
+1 16 49 2733376 0 0
+/foodslide/food31.jpg
+1 16 56 3225024 0 0
+/foodslide/food36.jpg
+1 16 63 2725424 0 0
+/images/redsnapper.png
+1 16 53 1806864 0 0
+/images/food6.jpg
+1 2 0 470684 0 0
+/images/food8.jpg
+1 2 1 432098 0 0
+/js/instagram.js
+0 47 51 13254 0 0
+/dist/jquery.zoomslider.min.js
+0 46 1 229908 0 0
+/photos/slider5.jpg
+1 38 64 43714107 0 0
+/js/bootstrap-select.js
+0 48 62 803232 0 0
+/revolution/js/jquery.themepunch.tools.min.js
+0 47 6 4917516 0 0
+/js/custom.js
+0 47 107 537586 0 0
+/images/food14.jpg
+1 2 1 422874 0 0
+/images/giftcard.png
+1 46 0 834762 0 0
+/images/sushi_PNG9246.png
+1 16 48 7415328 0 0
+/images/food3.jpg
+1 2 61 695014 0 0
+/images/food20.jpg
+1 2 235 644842 0 0
+/revolution/js/extensions/revolution.extension.slideanims.min.js
+0 47 55 1321734 0 0
+/images/bg9.jpg
+1 2 0 475448 0 0
+/images/food19.jpg
+1 2 0 748260 0 0
+/images/bg0.jpg
+1 12 154 18287628 0 0
+/revolution/css/layers.css
+0 51 200 5029518 0 0
+/revolution/js/extensions/revolution.extension.navigation.min.js
+0 47 1 1133828 0 0
+/revolution/js/jquery.themepunch.revolution.min.js
+0 49 52 2376549 0 0
+/images/whitetuna.png
+1 16 66 1595648 0 0
+/images/food27.jpg
+1 2 49 819646 0 0
+/images/sopa-miso.png
+1 17 52 2364887 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.76.15.138
+0 1 1 48501 0 0
+-
+66.87.128.11
+0 56 55 15984437 1 1486215936
+-
+107.72.164.26
+0 96 96 15164981 1 1486547451
+/about.html
+184.91.29.138
+0 101 101 21764214 1 1486513577
+/menu.html
+180.76.15.10
+0 1 1 821 0 0
+-
+150.70.173.43
+0 1 1 19991 1 1486498894
+/
+180.76.15.14
+0 1 1 580 0 0
+-
+180.76.15.160
+0 1 0 767 1 1486509050
+-
+192.36.27.4
+0 1 1 19991 1 1486515158
+/
+70.197.134.67
+0 2 2 52029 1 1486233323
+/
+68.231.250.140
+0 62 62 16111731 1 1486224497
+/locationframe.html
+196.144.214.103
+0 1 1 68258 0 0
+-
+207.46.13.200
+0 1 0 767 0 0
+-
+180.76.15.23
+0 1 1 19991 1 1486080117
+/
+66.249.64.80
+0 15 12 223674 5 1486227736
+/
+66.87.128.41
+0 111 111 24701176 1 1486140624
+/menu.html
+74.98.167.113
+0 49 49 4164070 1 1486311624
+/js/
+66.249.64.119
+0 3 0 2301 3 1486407128
+-
+66.249.64.75
+0 22 20 740014 6 1486510451
+/
+96.249.236.116
+0 52 52 13105597 1 1486577434
+/js/
+180.76.15.26
+0 1 0 767 0 0
+-
+63.243.252.98
+0 1 1 19991 1 1486031431
+/
+71.120.219.158
+0 57 57 7118976 1 1486231375
+/locationframe.html
+68.225.80.132
+0 73 73 20814327 1 1486391459
+/locationframe.html
+70.160.138.112
+0 63 63 16109183 1 1485970488
+/locationframe.html
+109.87.36.111
+0 1 1 19991 1 1486350347
+/
+68.10.249.113
+0 71 71 21727904 2 1486588834
+/
+71.120.234.168
+0 120 120 34079077 1 1486122111
+/about.html
+178.68.91.167
+0 3 0 2053 1 1485962153
+-
+174.204.20.107
+0 56 56 9795939 1 1486213179
+/locationframe.html
+68.10.18.142
+0 25 25 4694773 1 1486222505
+/js/
+72.214.81.119
+0 63 63 11463539 1 1486465680
+/about.html
+70.197.128.152
+0 114 113 24768697 1 1486146623
+/menu.html
+70.197.129.155
+0 15 14 11980057 1 1486051702
+-
+66.102.6.5
+0 19 19 10211304 0 0
+-
+202.46.52.153
+0 1 1 19991 1 1486485994
+/
+180.76.15.154
+0 1 1 0 0 0
+-
+70.197.141.167
+0 111 111 24735762 1 1486405447
+/menu.html
+174.78.177.30
+0 1 1 440786 0 0
+-
+66.249.64.115
+0 7 0 5369 2 1486407133
+-
+66.87.129.239
+0 62 62 16077145 1 1486426795
+/locationframe.html
+98.166.118.118
+0 106 106 26524753 1 1486132428
+/about.html
+68.10.93.4
+0 56 55 16019023 1 1486574969
+-
+96.249.236.57
+0 236 234 31393827 3 1486209774
+/js/
+148.62.14.156
+0 5 5 96207 2 1486216073
+/about.html
+204.126.11.207
+0 59 59 17991520 1 1485967693
+/about.html
+180.76.15.134
+0 1 1 19991 1 1486143545
+/
+66.249.64.184
+0 10 6 203493 2 1486335223
+/
+172.58.200.65
+0 160 158 45519416 1 1486477764
+/gallery.html
+203.45.244.248
+0 2 2 19991 1 1485969873
+/
+72.218.33.65
+0 50 50 4149010 2 1486149722
+/locationframe.html
+66.249.88.47
+0 2 2 52029 1 1486476454
+/
+72.84.80.243
+0 19 19 5033378 1 1486135870
+/locationframe.html
+208.54.90.219
+0 102 102 21749619 1 1486050505
+/menu.html
+201.94.227.61
+0 46 46 6899839 1 1486282146
+/js/
+70.197.136.115
+0 55 55 9755808 1 1486213170
+/locationframe.html
+70.165.70.39
+0 67 67 20872270 1 1486037977
+/about.html
+202.46.51.81
+0 1 1 19991 1 1486426346
+/
+65.19.167.131
+0 1 1 19991 1 1486261662
+/
+64.246.161.190
+0 2 1 20758 1 1486344221
+/
+66.249.64.176
+0 16 16 898982 1 1486496999
+/
+68.231.253.104
+0 1 1 19991 1 1486397471
+/
+157.55.39.244
+0 1 1 19991 1 1486384034
+/
+174.69.254.232
+0 116 114 24754621 2 1486553630
+-
+174.205.13.69
+0 5 5 838479 1 1486235842
+/careers.html
+108.39.45.6
+0 43 42 4054398 1 1486044810
+-
+173.71.146.137
+0 101 101 21764214 1 1486142496
+/menu.html
+70.197.133.138
+0 31 31 3061135 1 1486492247
+/js/
+70.197.131.226
+0 101 101 21729628 1 1486142388
+/menu.html
+66.249.64.70
+0 25 21 755987 3 1486220313
+/
+70.160.142.47
+0 167 167 42556131 3 1486085231
+/
+98.166.38.4
+0 99 99 30061253 1 1486233554
+/careers.html
+68.10.152.26
+0 61 59 9545952 2 1486060393
+-
+74.99.89.14
+0 56 54 15754257 1 1486030529
+/locationframe.html
+70.197.128.162
+0 4 3 99559 1 1486484972
+-
+173.71.151.229
+0 112 112 24733214 1 1485950207
+/menu.html
+66.102.6.9
+0 14 14 1760507 0 0
+-
+24.253.137.30
+0 63 63 16147952 1 1486484121
+/locationframe.html
+68.15.151.198
+0 63 63 16109183 1 1486557340
+/locationframe.html
+66.102.6.7
+0 17 17 1081757 1 1486476455
+/js/
+74.99.66.247
+0 68 68 20892261 1 1486498868
+/locationframe.html
+96.248.210.48
+0 65 64 19819912 1 1486216795
+/
+66.249.64.111
+0 14 0 10738 4 1486536233
+-
+66.249.64.180
+0 5 5 100250 1 1486025741
+/
+180.76.15.15
+0 1 1 14738 1 1486346304
+/locations.html
+70.161.221.82
+0 120 120 29552925 2 1486302690
+/menu.html
+216.239.90.19
+0 1 1 19991 1 1486201294
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+107.72.164.26
+0 96 96 15164981 1 1486547451
+/about.html
+184.91.29.138
+0 101 101 21764214 1 1486513577
+/menu.html
+192.36.27.4
+0 1 1 19991 1 1486515158
+/
+96.249.236.116
+0 52 52 13105597 1 1486577434
+/js/
+68.10.249.113
+0 64 64 16880750 1 1486588834
+/
+174.78.177.30
+0 1 1 440786 0 0
+-
+66.249.64.115
+0 1 0 767 0 0
+-
+68.10.93.4
+0 56 55 16019023 1 1486574969
+-
+174.69.254.232
+0 116 114 24754621 2 1486553630
+-
+68.15.151.198
+0 63 63 16109183 1 1486557340
+/locationframe.html
+66.249.64.111
+0 3 0 2301 1 1486536233
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://yamachen.com/franchise.html
+1 1
+http://www.yamachen.com/about.html
+1 85
+http://www.yamachen.com/css/style.css
+1 32
+https://google.ru/
+1 1
+http://www.yamachen.com/careers.html
+1 4
+http://hvd-store.com/
+0 1
+http://yamachen.com/locations.html
+1 72
+http://www.google.com/url
+1 2
+http://yamachen.com/locationframe.html
+1 9
+http://yamachen.com/contact.html
+1 43
+http://yamachen.com/css/style.css
+1 27
+android-app://com.google.android.googlequicksearchbox
+1 1
+http://www.yamachen.com/menu.html
+1 620
+http://www.yamachen.com/contact.html
+1 42
+http://yamachen.com/menu.html
+1 293
+http://www.yamachen.com/locations.html
+1 309
+https://www.google.com/
+1 19
+- (Direct Request)
+0 147
+http://yamachen.com/dist/zoomslider.css
+1 8
+http://yamachen.com/gallery.html
+1 81
+Google
+2 23
+http://yamachen.com/giftcard.html
+1 6
+http://top10-way.com/try.php
+0 1
+http://yamachen.com/
+1 832
+http://www.yamachen.com/
+1 1037
+http://yamachen.com/css/icons-main.css
+1 1
+http://yamachen.com/careers.html
+1 4
+http://whois.domaintools.com/yamachen.com
+1 1
+http://www.yamachen.com/locationframe.html
+1 19
+http://hundejo.com/
+0 1
+http://www.yamachen.com/index.html
+1 18
+http://www.yamachen.com/giftcard.html
+1 41
+http://yamachen.com/about.html
+1 14
+http://yamachen.com/index.html
+1 10
+http://www.yamachen.com/dist/zoomslider.css
+1 11
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 3665
+Netscape 6 compatible
+2 3665
+Googlebot-Image/1.0
+0 15
+MSIE 8.0
+0 1
+Baiduspider/2.0
+0 9
+Googlebot/2.1
+0 99
+bingbot/2.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+	<title>Open Dining Location Picker Example</title>
+
+	<!-- Start Open Dining Header Content -->
+	<link rel="stylesheet" href="https://www.opendining.net/media/js/odn-location.css">
+	<style>
+	/* Example custom styles for Order Online dialog / content */
+	/* Style for Order Online modal header */
+	.od-modal-header h2 {
+		font-family: Raleway, Arial, Helvetica, sans-serif;
+		font-weight: 400;
+		color: #fff;
+	}
+	/* Style for Order Online modal body area */
+	.od-modal-body {
+		font-family: Raleway, Arial, Helvetica, sans-serif;
+		font-weight: 300;
+	}
+	/* Style for Order Online links */
+	.od-modal a {
+		color: #8B7149;
+		text-decoration: none;
+	}
+
+  .od-address input {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 39px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.85714286;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+	</style>
+	<!-- End Open Dining Header Content -->
+
+</head>
+<body>
+
+
+<!-- Include jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<div class="od-modal od-search">
+<!-- Start Open Dining Body Content -->
+<div class="od-modal-header" style="background-image: url('images/blackbg.jpg');
+background-position: bottom;
+background-repeat: repeat; background-size:auto; text-align:center">
+	<img src="images/onlineorder-logo.png"  >
+  </div>
+  </div>
+  <div class="od-modal-body" style="text-align:center">
+	<div class="od-order-type-container">
+		<h3>Select Your Order Type</h3>
+		<div>
+			<button type="button" class="od-order-type od-btn od-btn-lg" data-type="delivery">Delivery</button>
+			<button type="button" class="od-order-type od-btn od-btn-lg" data-type="takeout">Pick-Up</button>
+		</div>
+	</div>
+	<div class="od-order-type-selected">
+		<h3>
+			<a href="#" class="od-link od-change-order-type od-pr" style="color:#ba0c01">(change)</a>
+			Order Type: <span class="od-selected-type"></span>
+		</h3>
+	</div>
+	<div class="od-address ">
+		<h3>Find a Location</h3>
+		<form method="post" action="" class="find-store">
+			<input type="text" class="od-street-address" placeholder="Street Address" name="street_address" >
+			<input type="text" class="od-zip" placeholder="Zip Code" pattern="\d*" name="zip">
+			<button type="submit" class="od-address-search od-btn btn-primary">Find My Store</button>
+		</form>
+	</div>
+	<div class="od-no-locations">
+		Sorry!  No nearby available locations were found.  Please try a different address.
+	</div>
+	<div class="od-location-selected">
+		<h3>
+			<a href="#" class="od-link od-change-location od-pr">(change)</a>
+			Your Location: <span class="od-current-location"></span>
+		</h3>
+	</div>
+	<div class="od-location">
+		<a href="#" class="od-other-locations" data-active="Hide Other Locations" data-inactive="See Other Locations">See Other Locations</a>
+	</div>
+	<div class="od-locations">
+	</div>
+  </div>
+</div>
+<div class="od-location-template od-location-instance">
+	<div class="od-loc-info">
+		<h4 class="od-restaurant-name"></h4>
+		<span class="od-loc-address"></span><br>
+		<span class="od-loc-address2"></span><br>
+		<span class="od-loc-phone"></span>
+	</div>
+	<div class="od-loc-actions">
+		<a href="https://www.opendining.net/menu/" class="od-order-button od-btn btn-primary od-btn-lg">Order Now!</a>
+	</div>
+</div>
+<script>
+	window.odnAppId = '5e5d36bf902ad5e95b7b23d2'; // Your App ID would go here
+	window.odnApiKey = '29ec5867c7b993c89702610ffc8bf651066304dd'; // Your API Key would go here
+</script>
+<script src="https://www.opendining.net/media/js/odn-location.js"></script>
+<!-- End Open Dining Body Content -->
+
+</body>
+</html>

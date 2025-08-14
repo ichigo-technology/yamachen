@@ -1,0 +1,68 @@
+.infoWindow {
+	/*display: block;*/
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	padding: 0;
+	width: 250px;
+}
+.info-data{
+	/*background: #1da082;*/
+	background: #ffffff;
+	padding-bottom: 10px;
+	text-align: left;
+	font-size: 14px !important;
+	color: #000000;
+}
+
+.gm-style, .gm-style-iw-c,
+.gm-style-iw-d,
+.gm-style-iw-d::-webkit-scrollbar-track-piece,
+.gm-style-iw-d::-webkit-scrollbar-track,
+.gm-style-iw-t::after{
+	/*background-color: #89d6ba !important;*/
+	background-color: #ffffff !important;
+	background: #ffffff !important;
+}
+.info-title{
+	font-size: 16px;
+	/*padding-bottom: 10px !important;*/
+	/*text-align: center !important;*/
+}
+.info-buttons{
+	padding-top: 7px;
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+}
+a.action, a.action.directions{
+	background: #E11619;
+	border-radius: 0;
+	color: #ffffff;
+	font-size: 12px;
+	width: 32.33%;
+	padding: 3px 5px;
+	display: inline-block;
+	margin: 0.5px;
+	border-left: medium none;
+}
+
+#panel.location-left{
+    position: absolute;
+    display: block;
+    overflow: auto;
+    margin-right: 6%;
+}
+
+/*.after_modal_appended*/
+/*{*/
+	/*position:relative;*/
+/*}*/
+
+.direction-modal{
+	/*background: #ACD55D;*/
+	/*border: solid 5px #DDD;*/
+	/*margin: 30px 20px;*/
+	overflow: hidden;
+	/*padding:20px;*/
+	position:absolute;
+}
