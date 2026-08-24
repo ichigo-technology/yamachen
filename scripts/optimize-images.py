@@ -127,6 +127,31 @@ def optimize_gallery_thumbnails() -> int:
         text,
         flags=re.IGNORECASE,
     )
+
+    def add_webp_dimensions(match: re.Match[str]) -> str:
+        tag = match.group(0)
+        if re.search(r"\bwidth=", tag, flags=re.IGNORECASE):
+            return tag
+        source_match = re.search(r'\bsrc=["\']([^"\']+\.webp)', tag, flags=re.IGNORECASE)
+        if not source_match:
+            return tag
+        source = ROOT / source_match.group(1)
+        if not source.exists():
+            return tag
+        with Image.open(source) as image:
+            return tag[:-1] + f' width="{image.width}" height="{image.height}">'
+
+    text = re.sub(
+        r'<img\b(?=[^>]*\bsrc=["\'][^"\']+\.webp)[^>]*>',
+        add_webp_dimensions,
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r'class="popup-gallery(?: optimized-gallery-card)?"(?:\s+style="width:100%;")?',
+        'class="popup-gallery optimized-gallery-card" style="width:100%;"',
+        text,
+    )
     gallery_page.write_text(text, encoding="utf-8")
     return created
 
