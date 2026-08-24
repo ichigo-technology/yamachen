@@ -1258,7 +1258,7 @@ ul.footer-list li a:hover{
 .about-hero-section{
 	width:100%;
 	position:relative;
-	background: url(../images/bg0.jpg) 50% top no-repeat fixed;
+	background: url(../images/bg0.webp) 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1279,7 +1279,7 @@ ul.footer-list li a:hover{
 .gallery-hero-section{
 	width:100%;
 	position:relative;
-	background: url(../images/bg5.jpg) 50% top no-repeat fixed;
+	background: url(../images/bg5.webp) 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1300,7 +1300,7 @@ ul.footer-list li a:hover{
 .reservation-hero-section{
 	width:100%;
 	position:relative;
-	background: url(../images/bg6.jpg) 50% top no-repeat fixed;
+	background: url(../images/bg6.webp) 50% top no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1340,7 +1340,7 @@ ul.footer-list li a:hover{
 .contact-hero-section{
 	width:100%;
 	position:relative;
-	background: url(../images/bg6.jpg) 50% center no-repeat fixed;
+	background: url(../images/bg6.webp) 50% center no-repeat fixed;
     background-size: cover;
 	color: white;
 	margin: 0 auto;
@@ -1380,7 +1380,7 @@ ul.footer-list li a:hover{
 .image-section{
 	width:100%;
 	position:relative;
-	background: url('../images/order-bg.jpg');
+	background: url('../images/order-bg.webp');
 	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;

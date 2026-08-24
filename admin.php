@@ -1,8 +1,8 @@
 <?php
 require_once( dirname(__FILE__).'/form.lib.php' );
 
-define( 'PHPFMG_USER', "amstudio.usa@gmail.com" ); // must be a email address. for sending password to you.
-define( 'PHPFMG_PW', "17a6c6" );
+define( 'PHPFMG_USER', getenv('PHPFMG_USER') ?: '' );
+define( 'PHPFMG_PW', getenv('PHPFMG_PW') ?: '' );
 
 ?>
 <?php

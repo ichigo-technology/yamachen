@@ -1,7 +1,0 @@
-# Begin password protection #
-AuthName "Password Protected"
-Require valid-user
-AuthUserFile "/.htpasswd"
-AuthType basic
-# End password protection #
-
