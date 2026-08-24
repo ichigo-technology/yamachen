@@ -1223,7 +1223,7 @@ function phpfmg_reCAPTCHA_key( $type ){
     $isSitekey = $type == 'site_key';
     // this keys are for formmail-maker.com domain only
     $phpfmgSiteKey   = '6LcQuv8SAAAAAKSvNHfF5gQuW9WIpcualeEYllCn';
-    $phpfmgSecretKey = '6LcQuv8SAAAAABczBmLx85TQfdlkeMkjhz4Hzv5D';
+    $phpfmgSecretKey = getenv('RECAPTCHA_SECRET_KEY') ?: '';
     if( $isSitekey ){
         return phpfmg_is_mysite() ? $phpfmgSiteKey   : RECAP_SITE_KEY;
     }else{
