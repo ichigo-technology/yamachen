@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Download the Yamachen's Sushi App</title>
+    <script>
+        (function () {
+            var userAgent = navigator.userAgent || "";
+            var isIOS = /iPhone|iPad|iPod/i.test(userAgent) ||
+                (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+            var isAndroid = /Android/i.test(userAgent);
+
+            if (isIOS) {
+                window.location.replace("https://apps.apple.com/us/app/yamachens-sushi/id1508019729");
+            } else if (isAndroid) {
+                window.location.replace("https://play.google.com/store/apps/details?id=com.paytronix.client.android.app.yamachen");
+            }
+        }());
+    </script>
+</head>
+<body>
+    <main>
+        <h1>Download the Yamachen's Sushi App</h1>
+        <p>Select your device's app store:</p>
+        <ul>
+            <li><a href="https://apps.apple.com/us/app/yamachens-sushi/id1508019729">iPhone (Apple App Store)</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.paytronix.client.android.app.yamachen">Android (Google Play)</a></li>
+        </ul>
+    </main>
+</body>
+</html>
