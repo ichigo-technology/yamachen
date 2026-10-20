@@ -1,0 +1,19 @@
+/* Shared by every site page, including standalone forms and maps. */
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+  border-left: 0;
+  background: rgba(0,0,0,0.1);
+}
+::-webkit-scrollbar-track {
+  background: none;
+}
+::-webkit-scrollbar-thumb {
+  background: #e41d27;
+  border-radius: 0;
+}
+
+/* Preserve the existing narrow WebKit scrollbar; Firefox uses the standard API. */
+@supports not selector(::-webkit-scrollbar) {
+  :root { scrollbar-color: #e41d27 rgba(0, 0, 0, 0.1); }
+}

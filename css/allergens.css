@@ -1,0 +1,83 @@
+/* Page styles share the main site's Bootstrap layout, Montserrat, red and black. */
+.allergens-page { margin: 0; color: #252525; background: #fff; font-family: 'Montserrat', Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+.allergens-page a:focus-visible, .allergens-page button:focus-visible, .tablewrap:focus-visible { outline: 3px solid #e41d27; outline-offset: 4px; }
+.skip-link { position: absolute; left: 16px; top: -80px; padding: 12px; background: #fff; color: #a90711; z-index: 100; }
+.skip-link:focus { top: 12px; }
+.allergen-masthead { background: linear-gradient(#111b, #111b), url('../images/bg5.webp') center / cover; color: #fff; }
+.allergen-nav.navbar { position: relative; margin: 0; border: 0; border-radius: 0; background: transparent; padding: 28px 0 22px; }
+.allergen-nav .topbar { margin-bottom: 24px; }
+.allergen-nav .topbar a { display: inline-block; padding: 12px 18px; height: auto; font-size: 13px; }
+.allergen-nav .navbar-brand { height: auto; }
+.allergen-nav .navbar-brand img { max-width: 100%; }
+.allergen-nav .navbar-nav > li > a { padding-right: 10px; padding-left: 10px; }
+.allergen-nav .navbar-nav img { vertical-align: middle; }
+.allergen-hero { padding-top: 40px; padding-bottom: 65px; }
+.allergen-hero .comic-text { font-size: 16px; line-height: 1.7; letter-spacing: 2px; opacity: 1; color: #ff626a; }
+.allergen-hero h1 { margin: 12px 0 20px; font-size: clamp(26px, 4vw, 38px); text-transform: uppercase; }
+.allergen-hero p { color: #eee; margin: 0; line-height: 1.8; }
+.allergen-main { padding-top: 42px; padding-bottom: 60px; }
+.allergen-notice { border-left: 3px solid #e41d27; background: #faf7f5; padding: 18px 22px; font-size: 13px; line-height: 1.9; margin-bottom: 26px; }
+.allergen-notice strong { display: inline-block; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 1px; }
+.allergen-controls { display: grid; grid-template-columns: 1fr 280px; gap: 20px; padding: 24px; border: 1px solid #e5e5e5; background: #fafafa; }
+.allergen-controls label { display: block; color: #454545; font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 10px; }
+.allergen-controls input, .allergen-controls select { width: 100%; height: 46px; border: 1px solid #d5d5d5; border-radius: 0; padding: 0 12px; color: #252525; background: #fff; font: 14px Arial, sans-serif; }
+.allergen-controls input:focus, .allergen-controls select:focus { outline: 2px solid #a90711; outline-offset: 2px; }
+.allergen-topline { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin: 32px 0 14px; }
+.allergen-topline h2 { margin: 0; font-size: 22px; text-transform: uppercase; }
+#count { color: #777; font-size: 12px; white-space: nowrap; }
+.allergen-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 24px; font-size: 12px; color: #555; margin-bottom: 16px; }
+.tick { color: #a90711; font: bold 19px Arial, sans-serif; }
+.maybe { display: inline-flex; align-items: center; justify-content: center; background: #fff0d5; color: #805000; width: 21px; height: 22px; font: bold 13px Arial, sans-serif; }
+.scroll-hint { display: none; font-size: 11px; margin: 0 0 12px; }
+/* The sticky row must be outside .tablewrap: overflow-x captures sticky's
+   scrolling ancestor even when the document is what actually scrolls. */
+.allergen-chart { position: relative; border: 1px solid #ddd; }
+.chart-header { position: sticky; top: 0; z-index: 20; overflow-x: auto; scrollbar-width: none; background: #252525; box-shadow: 0 2px 0 #a90711; }
+.chart-header::-webkit-scrollbar { display: none; }
+.tablewrap { overflow-x: auto; }
+.allergen-table { table-layout: fixed; border-collapse: separate; border-spacing: 0; width: 100%; min-width: 980px; margin: 0; font-family: Arial, Helvetica, sans-serif; }
+.allergen-table .item-column { width: 26%; }
+.chart-header th { height: 64px; padding: 16px 6px; font-size: 11px; line-height: 1.4; text-align: center; color: #fff; background: #252525; text-transform: uppercase; letter-spacing: .4px; }
+.chart-header th:first-child { position: sticky; left: 0; text-align: left; padding-left: 20px; z-index: 1; }
+.allergen-table tbody td, .allergen-table tbody th { padding: 13px 6px; height: 48px; text-align: center; border-bottom: 1px solid #eaeaea; font-size: 14px; vertical-align: middle; background: #fff; }
+.allergen-table tbody th { position: sticky; left: 0; text-align: left; padding-left: 20px; font-size: 13px; font-weight: 600; z-index: 1; }
+.allergen-table tbody tr:nth-child(even) > * { background: #f8f8f8; }
+.allergen-table tbody tr:hover > * { background: #fff3f2; }
+.allergen-table tbody tr:last-child > * { border-bottom: 0; }
+.allergen-table .none { padding: 38px 20px; color: #777; }
+.allergen-note { margin-top: 24px; font-size: 12px; color: #666; line-height: 1.9; }
+.allergen-footer { background-image: url('../images/blackbg.webp'); background-size: auto; }
+.allergen-footer .footer_social { float: none; margin-top: 20px; }
+.allergen-footer .footer_social i { font-size: 20px; }
+.allergen-footer .rewards-title { font-size: 23px; line-height: 1.5; color: #e41d27; }
+.allergen-footer h3 { color: #fff; font-size: 18px; line-height: 1.5; text-transform: uppercase; margin: 8px 0; }
+.allergen-footer .col-md-4 { margin-bottom: 30px; }
+.allergen-footer .footer-links { line-height: 2; text-transform: uppercase; font-size: 12px; }
+.footer-links a + a::before { content: ' / '; color: #e41d27; margin: 0 7px; }
+.allergen-footer .site-credit, .allergen-footer .site-credit a { margin-top: 20px; color: #888; font-size: 11px; line-height: 1.8; }
+@media (max-width: 1199px) { .allergen-nav .navbar-brand img { width: 175px; } .allergen-nav .navbar-nav > li > a { font-size: 11px; padding-left: 7px; padding-right: 7px; } .scroll-hint { display: block; } }
+@media (max-width: 767px) {
+    .allergen-nav.navbar { padding: 20px 0 8px; }
+    .allergen-nav .topbar { margin-bottom: 22px; }
+    .allergen-nav .navbar-brand { margin-top: -7px; }
+    .allergen-nav .navbar-brand img { width: 180px; }
+    .allergen-nav .navbar-collapse { border: 0; box-shadow: none; }
+    .allergen-nav .navbar-nav > li > a { font-size: 12px; line-height: 24px; }
+    .allergen-nav .navbar-toggle { border-color: #777; }
+    .allergen-nav .navbar-toggle .icon-bar { background: #fff; }
+    .allergen-nav .navbar-toggle:hover, .allergen-nav .navbar-toggle:focus { background: #333; }
+    .allergen-hero { padding: 30px 20px 42px; }
+    .allergen-hero .comic-text { font-size: 11px; letter-spacing: 1px; }
+    .allergen-hero h1 { font-size: 26px; line-height: 1.4; letter-spacing: 1px; }
+    .allergen-hero p { font-size: 12px; }
+    .allergen-main { padding-top: 26px; padding-bottom: 36px; }
+    .allergen-notice { padding: 15px; font-size: 12px; }
+    .allergen-controls { grid-template-columns: 1fr; padding: 18px; gap: 18px; }
+    .allergen-topline h2 { font-size: 18px; letter-spacing: 1px; }
+    .allergen-legend { gap: 10px 16px; font-size: 11px; }
+    .allergen-table { min-width: 900px; }
+    .allergen-table .item-column { width: 21%; }
+    .allergen-table tbody th, .chart-header th:first-child { padding-left: 12px; }
+    .allergen-table tbody th { font-size: 12px; }
+}
+@media print { .allergen-nav, .allergen-footer, .allergen-controls, .skip-link, .scroll-hint { display: none; } .chart-header { position: static; } .tablewrap { overflow: visible; } .allergen-table { min-width: 0; } .allergen-main { width: 100%; } }

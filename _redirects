@@ -3,3 +3,27 @@
 /bootstrap/bootstrap.zip    /404.html  404
 /app                        /app.html  200
 /app/                       /app.html  200
+
+# Retired duplicate and test pages
+/index%20copy.html /index.html 301
+/index-test.html /index.html 301
+/menu2.html /menu.html 301
+/menu_old.html /menu.html 301
+/old_Home.html /index.html 301
+/old_locations.html /locations.html 301
+/onlineorder-old.html /onlineorder.html 301
+/onlineorder2.html /onlineorder.html 301
+/reward_old.html /reward.html 301
+/test.html /index.html 301
+/images/rewardcopy.html /reward.html 301
+/images/images/giftcard.html /giftcard.html 301
+/images/images/third-party-delivery.html /third-party-delivery.html 301
+/images/images/index.html /index.html 301
+/images/images/about.html /about.html 301
+/images/images/contact.html /contact.html 301
+/images/images/gift-card.html /gift-card.html 301
+/images/images/careers.html /careers.html 301
+/images/images/gallery.html /gallery.html 301
+/images/images/onlineorder.html /onlineorder.html 301
+/images/images/map-locator.html /map-locator.html 301
+/images/images/reward.html /reward.html 301
